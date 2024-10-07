@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "68804eed-f0f8-48c5-a0e2-dc19798bcdd8"
+    },
+    {
+      "start_time": 337,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "popeye does it again!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1efb243b-e008-40c6-8b42-164bb7265f1e"
     }
   ],
   "set": "Default",
