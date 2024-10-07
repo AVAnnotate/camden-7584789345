@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 128,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "trash can"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8f9b5391-49f2-4ff4-a258-a2c8f3d7bbdb"
+    }
+  ],
   "set": "Default",
   "event_id": "b92c7ee5-876d-49a2-b270-91bdb7e3bbf3",
   "source_id": "91ba7ff6-6767-4138-90a8-da2b10c1d0b2"
