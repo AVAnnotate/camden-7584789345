@@ -30,6 +30,46 @@
           "text": "It's an embedded event!"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "And here's one with a non-zero start time:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "e93da165-8c5f-4753-b9a8-4a0d6aa51c8c",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 83,
+      "end": 296,
+      "file": "8abefd20-b794-4e51-a2d6-79d69a554c1c",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Clip Embed Test",
@@ -40,6 +80,6 @@
   "slug": "clip-embed-test",
   "created_at": "2024-10-08T20:05:06.751Z",
   "created_by": "camdendotlol",
-  "updated_at": "2024-10-08T20:05:06.752Z",
+  "updated_at": "2024-10-09T19:33:20.514Z",
   "updated_by": "camdendotlol"
 }
