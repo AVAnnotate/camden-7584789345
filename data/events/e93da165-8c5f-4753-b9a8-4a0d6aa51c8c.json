@@ -4,7 +4,14 @@
       "label": "Annotating a Duality of Spaces in Muriel Rukeyser's \"The Speed of Darkness\"",
       "is_offline": false,
       "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Breaking_Math_Podcast_004_-_Digital_Evolution_%28Digital_Computing%29.mp3",
-      "duration": 3084
+      "duration": 3196
+    },
+    "48cb2fdf-4e17-4279-bf04-5b60f0927430": {
+      "label": "Test",
+      "is_offline": false,
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Breaking_Math_Podcast_004_-_Digital_Evolution_%28Digital_Computing%29.mp3",
+      "duration": 3196,
+      "caption_set": ""
     }
   },
   "auto_generate_web_page": true,
@@ -12,6 +19,6 @@
   "label": "Annotating a Duality of Spaces in Muriel Rukeyser's \"The Speed of Darkness\"",
   "created_at": "2024-10-07T19:43:21.784Z",
   "created_by": "camdendotlol",
-  "updated_at": "2024-10-07T19:43:21.784Z",
-  "updated_by": "camdendotlol"
+  "updated_at": "2024-10-17T17:21:28.547Z",
+  "updated_by": "lwjameson"
 }
